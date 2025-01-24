@@ -27,13 +27,13 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="9.0.1" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
     <PackageReference Include="Polly.Caching.Memory" Version="3.0.2" />
     <PackageReference Include="Polly.Contrib.WaitAndRetry" Version="1.1.1" />
     <PackageReference Include="Quartz" Version="3.13.1" />
     <PackageReference Include="Quartz.Extensions.Hosting" Version="3.13.1" />
-    <PackageReference Include="System.ServiceModel.Syndication" Version="8.0.0" />
+    <PackageReference Include="System.ServiceModel.Syndication" Version="9.0.1" />
   </ItemGroup>
 
   <ItemGroup>

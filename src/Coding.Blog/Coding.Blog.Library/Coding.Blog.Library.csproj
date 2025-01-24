@@ -23,8 +23,8 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.AspNetCore.Components" Version="8.0.12" />
-    <PackageReference Include="Microsoft.JSInterop" Version="8.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Components" Version="9.0.1" />
+    <PackageReference Include="Microsoft.JSInterop" Version="9.0.1" />
   </ItemGroup>
 
   <ItemGroup>
